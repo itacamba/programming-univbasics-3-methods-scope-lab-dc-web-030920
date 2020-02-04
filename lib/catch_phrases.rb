@@ -14,6 +14,5 @@ def link
 end
 
 def any_phrase(yourPhrase)
-  newPhrase = #{yourPhrase}
-  puts newPhrase
+  puts yourPhrase
 end
